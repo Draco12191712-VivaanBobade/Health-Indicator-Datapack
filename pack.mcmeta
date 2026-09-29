@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": [
+      {"text": "Health Indicator", "color": "red"},
+      {"text": "\nPlayer health under names, never stuck at 0", "color": "gray"}
+    ],
+    "pack_format": 26,
+    "supported_formats": [26, 999],
+    "min_format": 26,
+    "max_format": 999
+  }
+}
