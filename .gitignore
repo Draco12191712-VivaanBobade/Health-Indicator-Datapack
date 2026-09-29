@@ -1,0 +1,15 @@
+.DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+.env
+node_modules/
+.gradle/
+build/
+dist/
