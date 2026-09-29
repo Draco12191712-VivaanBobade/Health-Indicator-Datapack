@@ -1,0 +1,4 @@
+*.mcfunction linguist-language=mcfunction
+*.mcmeta linguist-language=mcmeta
+*.json linguist-language=json
+*.png filter=lfs diff=lfs merge=lfs -text
